@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  background: linear-gradient(180deg, #000000, #020a1a);
+}
+
+/* topo mais leve */
+.topo {
+  text-align: center;
+  padding: 30px 10px 10px;
+}
+
+.topo h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 32px;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
+.menu a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #ccc;
+  font-size: 14px;
+}
+
+.menu a:hover {
+  color: white;
+}
+
+.container {
+  width: 70%;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+}
+
+section {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+}
